@@ -2,7 +2,7 @@
 
 This is the official repository for the paper **"The Riddle of Reflection: Evaluating Reasoning and Self-Awareness in Multilingual LLMs Using Indian Riddles."** 
 
-This repository contains the curated datasets, prompt templates, and evaluation scripts used to test the reasoning capabilities and self-awareness of Large Language Models (LLMs) across seven major Indian languages: Bengali, Gujarati, Hindi, Kannada, Malayalam, Tamil, and Telugu.
+This repository contains the curated datasets and prompt templates used to test the reasoning capabilities and self-awareness of Large Language Models (LLMs) across seven major Indian languages: Bengali, Gujarati, Hindi, Kannada, Malayalam, Tamil, and Telugu.
 
 ## 🗂️ Repository Structure
 
@@ -22,15 +22,17 @@ Solving riddles requires complex multi-step commonsense reasoning, metaphorical 
 
 **Key Finding:** Our evaluation reveals a crucial "Self-Awareness Paradox" in modern LLMs—top-performing models (like Gemini 2.5 Pro) are highly overconfident and fail to recognize their own mistakes, whereas lower-performing models exhibit substantially better self-awareness.
 
-## 🚀 Usage
-*(Add brief instructions here on how someone can run your python scripts or use your dataset, for example:)*
-To view the dataset, navigate to the `data/96_riddles` folder. The files are tab-separated values (`.tsv`) containing the original riddle, and the correct answer. 
+
 
 ## 📝 Citation
 If you use this dataset or code in your research, please consider citing our paper:
 ```text
-@article{pm2026riddle,
-  title={The Riddle of Reflection: Evaluating Reasoning and Self-Awareness in Multilingual LLMs Using Indian Riddles},
-  author={P M, Abhinav and Saxena, Ojasva and C, Oswald and Krishnamurthy, Parameswari},
-  year={2026}
+@misc{m2025riddlereflectionevaluatingreasoning,
+      title={The Riddle of Reflection: Evaluating Reasoning and Self-Awareness in Multilingual LLMs using Indian Riddles}, 
+      author={Abhinav P M and Ojasva Saxena and Oswald C and Parameswari Krishnamurthy},
+      year={2025},
+      eprint={2511.00960},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2511.00960}, 
 }
