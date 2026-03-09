@@ -1,0 +1,1725 @@
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕರಿ ಗುಡ್ಡಬಿಳಿ ನೀರು ಅದ್ರಾಗೆ ಕುಂತವಳೇ ಚಂಪರಾಣಿ
+Candidate Answer: ಕಡ್ಡಿಪ್ಪೂಸು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಬೆಳ್ಳಿ ಸಮುದ್ರದಲ್ಲಿ ಕಪ್ಪು ಸೂರ್ಯ
+Candidate Answer: ಅಡಿಕೆ ಮರ ಕಾಯಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕಾಲಿಲ್ಲ ಹುಡುಗಿಗೆ ಮಾರುದ್ದ ಕಡಿವಾಣ
+Candidate Answer: ಕುಂಬಳಕಾಯಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹಾರಾಡುತ್ತಿದೆ ಗಾಳಿಪತವಲ್ಲ, ಬಣ್ಣ ಮೂರಿರುವುದು ಕಾಮನಬಿಲ್ಲಲ್ಲ
+Candidate Answer: ಪತಂಗ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಒಂದು ಮಡಕೆ, ಮಡಕೆಯೊಳಗೆ, ಕುಡಿಕೆ, ಕುಡಿಕೆಯಲ್ಲಿ ಸಾಗರ
+Candidate Answer: ವಾಲ್ನಟ್ಕೆ (ವಾಲ್‌ಡ್ಕೆ)
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ನೀಲಿ ಸಾಗರದಲ್ಲಿ ಬೆಳ್ಳನೇ ಮೀನುಗಳು ನಾನ್ಯಾರು
+Candidate Answer: ಆಕಾಶ ಮತ್ತು ನಕ್ಷತ್ರಗಳು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ನೀನಿಲ್ಲದೆ ಊಟವಿಲ್ಲ
+Candidate Answer: ಉಪ್ಪು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಅಕ್ಕ ಓದುತ್ತಾಳೆ ತಂಗಿ ನಡೀತ್ತಾಳೆ
+Candidate Answer: ಬೆಳಕು ಮತ್ತು ನೆರಳು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಮೂರು ಕಾಸಿನ ಕುದುರೆಗೆ ಮುನ್ನೂರು ರೂಪಾಯಿನ ಹಗ್ಗ
+Candidate Answer: ಉಮಿ, ನಾಲಿಗೆ, ಹಲ್ಲು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಒಂದು ಹಸ್ತಕ್ಕೆ ನೂರೆಂಟು ಬೆರಳು
+Candidate Answer: ಕೀಲಿಮಣೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಗುಡುಗು, ಗುಡುಗಿದರೆ ಸಾವಿರ ನಯನಗಳು ಅರಳುವುದು.
+Candidate Answer: ಮಿಂಚು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಆಕಾಶದಲ್ಲಿ ಕೊಡಲಿಗಳು ತೇಲಾಡುತ್ತವೆ
+Candidate Answer: ಮಿಂಚು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಅಮ್ಮನ ಆಕಾಶವಾಣಿ ನಾನು
+Candidate Answer: ಮಿಂಚು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕೂಗಿದರೆ ರಾವಣ, ಹಾರಿದರೆ ಹನುಮಂತ, ಕೂತರೆ ಮುಸಿ
+Candidate Answer: ಹಾರುವ ಮಿಡತೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹಗ್ಗ ಹಾಸಿದೆ, ಹಸು ಮಲಗಿದೆ
+Candidate Answer: ಹಾಸಿಗೆ, ಹೆಂಗಸು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಸಾವಿರ ತರುತ್ತೆ ಲಕ್ಷ ತರುತ್ತೆ ನೀರಿನಲ್ಲಿ ಹಾಕಿದರೆ ಸಾಯುತ್ತೆ.
+Candidate Answer: ಉಪ್ಪು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಬಾ ಅಂದರೆ ಬರೋಲ್ಲ, ಹೋಗು ಅಂದರೆ ಹೋಗೋಲ್ಲ
+Candidate Answer: ಮನೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕೆಂಪು ಕುದುರೆಗೆ ಲಗಾಮು, ಓಬ್ಬ ಹತ್ತುತ್ತಾನೆ, ಇನ್ನೊಬ್ಬ ಇಳಿತಾನೇ
+Candidate Answer: ಮೆಣಸಿನಕಾಯಿ ಮತ್ತು ಗಜ್ಜರಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹೊಂಚು ಹಾಕಿದ ದೆವ್ವ, ಬೇಡ ಬೇಡ ಎಂದರೂ ಜೂತೆಯೇ ಬರುತ್ತೆ.
+Candidate Answer: ನಿದ್ದೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕೆಂದ ಕುದುರೆ,ಬಿಳಿ ತಡಿ, ಕರೆ ಲಗಾಮು, ಅಣ್ಣ ಅತ್ತಾನೆ, ತಮ್ಮ ಇಳಿತ್ತಾನೆ
+Candidate Answer: ಬೆಲ್ಲದ ತುಂಡು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕೆಂಪು ಕುದುರೆ ಮೇಲೆ ಒಬ್ಬ ಏರುತ್ತಾನೆ, ಒಬ್ಬ ಇಳಿಯುತ್ತಾನೆ
+Candidate Answer: ಬೆಳ್ಳುಳ್ಳಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕೋಳಿ ಕುಗುತ್ತದೆ, ಮುಲ್ಲ ಚೂರಿ ಹಾಕುತ್ತಾನೆ.
+Candidate Answer: ಬಂದೂಕು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಒಂದು ಮನೆಗೆ ಒಂದೇ ತೊಲೆ
+Candidate Answer: ಛತ್ರಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹೋಗುತ್ತಾ, ಬರುತ್ತಾ ಇರುವುದು ಎರಡು,ಹೋದ ಮೇಲೆ ಬರಲಾರವು ಎರಡು
+Candidate Answer: ಕಣ್ಣು, ಕಾಲು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕಡ್ಲೆ ಕಾಳಷ್ಟು ಹಿಂಡಿ 32 ಮನೆ ಸಾರಿಸಿ ಬಚ್ಚಲ ಪಾಲು ಆಗುತ್ತೆ
+Candidate Answer: ಅಡಿಕೆ ಹಣ್ಣು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಗಿರಗಿರ ತಿರುಗುತ್ತೆ, ಸುಸ್ತಾಗಿ ಬೀಳುತ್ತೆ
+Candidate Answer: ಗೊಂಬೆಗಾಡಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಒಂದು ಹಪ್ಪಳ ಊರಿಗೆಲ್ಲ ಊಟ
+Candidate Answer: ಚಂದ್ರ ಅಥವಾ ಚಂದ್ರಮಾ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಶತ್ತಗಿಂಡಿ, ಶಾರಾಗಿಂಡಿ, ನೀರಾಗಿ ಹಕ್ಕಿದರೆ ಮುಳುಗದು ಮುತ್ತಿನ ಗಿಂಡಿ.
+Candidate Answer: ಮೊಟ್ಟೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹಸಿರು ಕೋಲಿಗೆ ಮುತ್ತಿನ ತುರಾಯಿ
+Candidate Answer: ಬೆಂಡೆಕಾಯಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ನೀಲಿ ಕೆರೆಯಲಿ ಬಿಳಿ ಮೀನು
+Candidate Answer: ಆಕಾಶ ಮತ್ತು ನಕ್ಷತ್ರ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಬಂಗಾರದ ಗುಬ್ಬಿ ಬಾಲದಲ್ಲೇ ನೀರನ್ನು ಕುಡಿಯುತ್ತೆ
+Candidate Answer: ಕೆರಳಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಮರನು ಮರನೇರಿ ಮತ್ತೆ ಮರನೇರಿ ಬಸವನಾ ಕತ್ತೇರಿ ತಿರುಗುತ್ತಿದೆ
+Candidate Answer: ಗೂಟಿಗೆ ಹಕ್ಕಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹಸಿರು ಹಾವರಾಣಿ, ತುಂಬಿದ ತತ್ರಾಣಿ, ಹೇಳದಿದ್ದರೆ ನಿಮ್ಮ ದೇವರಾಣಿ
+Candidate Answer: ಬೆಂಡೆಕಾಯಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ೨೧. ಮೋಟು ಗೋಡೆ ಮೇಲೆ, ದೀಪ ಉರೀತಿದೆ.
+Candidate Answer: ಚಂದ್ರ/ಹಣೆಬೊಟ್ಟು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕರಿ ಗುಡ್ಡ-ಬಿಳಿ ನೀರು ಅದ್ರಾಗೆ ಕುಂತವಳೇ ಚಂಪರಾಣಿ.
+Candidate Answer: ಬೆಂಡೆಕಾಯಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಇದ್ದಲು ನುಂಗುತ್ತ, ಗದ್ದಲ ಮಾಡುತ್ತಾ, ಉದ್ದಕ್ಕೂ ಓಡುತ್ತಾ ಮುಂದಕ್ಕೆ ಸಾಗುವ ನಾನ್ಯಾರು?
+Candidate Answer: ರೈಲು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ೪೬. ಕೆಂಪು ಕುದುರೆ ಮೇಲೆ ಒಬ್ಬ ಏರುತ್ತಾನೆ, ಒಬ್ಬ ಇಳಿಯುತ್ತಾನೆ.
+Candidate Answer: ಬೆಳ್ಳುಳ್ಳಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕಾಸಿನ ಕುದುರೆಗೆ ಬಾಲದ ಲಗಾಮು
+Candidate Answer: ಉತ್ತರ : ಸೂಜಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ವನದಲ್ಲಿ ಹುಟ್ಟಿ,ವನದಲ್ಲಿ ಬೆಳೆದು,ವನದಿಂದ ಹೊರಟು ವನಜಲೊನೆ ಶಿರಕ್ಕೆರುವರು.
+Candidate Answer: ಎಣ್ಣೆ ತೆಂಗಿನಕಾಯಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಅಂಗಳದಲ್ಲಿ ಹುಟ್ಟುವುದು, ಅಂಗಳದಲ್ಲಿ ಬೆಳೆಯುವುದು, ತನ್ನ ಮಕ್ಕಳ ಹಂಗಿಸಿ ಮಾತಾಡುವುದು ಇದು ಏನು?
+Candidate Answer: ಹೆಬ್ಬಾವು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಅಕ್ಕ ಪಕ್ಕ ಚದುರಂಗ,ಅದರ ಹೂವು ಪದುರಂಗ ಅದರ ಹೆಸರು ಅಯ್ಯಯ್ಯಪ್ಪ ಇದು ಏನು?
+Candidate Answer: ಬಾಳೆಹಣ್ಣು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕತ್ತಲೆ ಮನೆಯಲಿ ಕಾಳವ್ವ ಕುಂತವೈ ಕುಯ್ಯೋ, ಮರ್ರೋ ಅಂತವಳೇ
+Candidate Answer: ಮೈಲುಗಡಲೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಅಂಗೈ ಕೊಟ್ಟರೆ ಮುಂಗೈನೂ ನುಂಗುತ್ತದೆ
+Candidate Answer: ಬೆಂಕಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಒಂದು ಮರ, ಮರದಾಗ ಅಲ್ಲ, ಅಲ್ಲಿನಾಗ ಕೊಬ್ರಿ ಗುಂಡ
+Candidate Answer: ಬಲ್ಬ್
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ತಕ್ಕಡೀಲಿ ಇಟ್ಟು ಮಾರೋ ಹಾಗಿಲ್ಲ, ಅದಿಲ್ಲದೆ ಹಬ್ಬ ಅಗೋ ಹಾಗಿಲ್ಲ.
+Candidate Answer: ಹೂವು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕಡ್ಲೆ ಕಾಳಷ್ಟು ಹಿಂಡಿ೩೨ ಮನೆ ಸಾರಿಸಿ ಬಚ್ಚಲ ಪಾಲು ಆಗುತ್ತೆ.
+Candidate Answer: ಬೆಳಕು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಅನ್ನ ಮಾಡಲಿಕ್ಕೆ ಬಾರದಂತಹ ಅಕ್ಕಿ ಯಾವುದು
+Candidate Answer: ಕನ್ಯಾಕ್ಕಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಊಟಕ್ಕೆ ಕುಳಿತವರು ಹನ್ನೆರಡು ಜನರು, ಬಡಿಸುವವರು ಇಬ್ಬರು, ಒಬ್ಬನು ಒಬ್ಬರಿಗೆ ಬಡಿಸುವಸ್ಟರಲ್ಲಿ ಇನ್ನೊಬ್ಬನು ಹನ್ನೆರಡು ಜನಕ್ಕೂ ಬಡಿಸಿರುತ್ತಾನೆ
+Candidate Answer: ಹಲ್ಲು ಮತ್ತು ನಾಲಿಗೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕಂದ ಬಂದ ಕೊಂದ ತಂದ
+Candidate Answer: ಬೆಂಕಿಕಡ್ಡಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ದಾಸ್‌ ಬುರುಡೆ ದೌಲಥ ಬುರುಡೆ, ಲೋಕಕ್ಕೆಲ್ಲ ಎರಡೇ ಬುರುಡೆ
+Candidate Answer: ಹಸಿವೆ, ನಿದ್ರೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಬೆಳ್ಳಿ ಬಟ್ಟಲಲ್ಲಿ ಮುತ್ತಿನ ಬಿಂದು
+Candidate Answer: ಹಿಮದ ಹನಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹಸಿರು ಕೋಲಿಗೆ ಮುತ್ತಿನ ತುರಾಯಿ
+Candidate Answer: ಬೆಂಡೆಕಾಯಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹಾರಿದರೆ ಹನುಮಂತ, ಕೂತರೆ ಮುನಿ, ಕೂಗಿದರೆ ಕಾಡಿನ ಒಡೆಯ
+Candidate Answer: ಸಿಂಹ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಅಂಗಣ್ಣ ಮಂಗಣ್ಣ ಅಂಗಿ ಬಿಚ್ಚಿಕೊಂಡು ನುಂಗಣ್ಣ
+Candidate Answer: ಹೊಗೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕಿರೀಟ ಇದೆ ರಾಜ ಅಲ್ಲ, ಕಲ ತಿಳಿಸುತ್ತೆ ಗಡಿಯಾರವಲ್ಲ
+Candidate Answer: ಹೂವು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹಲ್ಲಿಲ್ಲದ ಹಕ್ಕಿಗೆ ಗೂಡು ತುಂಬ ಮರಿಗಳು.
+Candidate Answer: ಬಾಳೆಹಣ್ಣು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಒಂಟಿಕಾಲಿನ ಕುಂಟ. ನಾನ್ಯಾರು?
+Candidate Answer: ಆಮೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ೧೩.ಒಂದು ರುಮಾಲು ನಮ್ಮಪ್ಪನೂ ಸುತ್ತಲಾರ.
+Candidate Answer: ಎಲೆ ಉದುರುವ ಹೂವು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹುಟ್ಟುತ್ತಲೇ ಹುಡುಗ ತಲೆಯಲ್ಲಿ ಟೋಪಿ ಹಾಕಿರುತ್ತೆ.
+Candidate Answer: ಮೊಟ್ಟೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ನೀರಿರೋತಾವ ನಿಲ್ಲಲೇ ಕೋಣ
+Candidate Answer: ಮೋಡ.
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹಸಿರು ಗಿಡದ ಮೇಲೆ ಮೊಸರು ಚೆಲ್ಲಿದೆ
+Candidate Answer: ಹೆಂಡತಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಅಂಗೈ ಅಗಲದ ರೊಟ್ಟಿಗೆ ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಉಪ್ಪಿನಕಾಯಿ
+Candidate Answer: ಬೆರಳು ಮತ್ತು ಉಂಗುರ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಮನೆ, ಮನೆಗೆರಡು ಬಾಗಿಲು, ಬಾಗಿಲ ಮುಂದೆ, ಮುಚ್ಚಿದರೆ ಹಾನಿ ಇದೇನು?
+Candidate Answer: ಕಣ್ಣು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಸಾವಿರಾರು ಹಕ್ಕಿಗಳು, ಒಂದೇ ಬಾರಿಗೆ ನೀರಿಗಿಳಿತವೆ.
+Candidate Answer: ಮಳೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಸುತ್ತ ಮುತ್ತ ಸುಣ್ಣದ ಗೋಡೆ, ಎತ್ತ ನೋಡಿದರೂ ಬಾಗಿಲಿಲ್ಲ ಇದು ಏನು ?
+Candidate Answer: ಮೊಟ್ಟೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಅಗಲವಾದ ಮಾಳಿಗೆಗೆ ಒಂದೇ ಕಂಬ
+Candidate Answer: ಮರದ ಚೊಡ್ಡು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಸುಟ್ಟ ಹೆಣ ಮತ್ತೆ ಸುಡ್ತಾರೆ
+Candidate Answer: ಕಾಫಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಚಿಕ್ಕ ಮನೆಗೆ ಚಿನ್ನದ ಬೀಗ
+Candidate Answer: ಮುಸುಕಿನ ಕಾಯಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಗಿಡ ಕೊಡಲಾರದು, ಮರ ಬೆಳೆಸಲಾರದು ಅದಿಲ್ಲದೆ ಊಟ ಸೇರಲಾರದು
+Candidate Answer: ಉಪ್ಪು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಲಟಪಟ ಲೇಡಿಗೆ ಒಂದೇ ಕಣ್ಣು
+Candidate Answer: ಕಿರುಬೆರಳು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಮುಳ್ಳುಗಳಿವೆ ಅಪಾಯವಿಲ್ಲ, ಸಂಖ್ಯೆಗಳಿವೆ ಲೆಕ್ಕದ ಪುಸ್ತಕವಲ್ಲ, ಗಂಟೆ ಹೊಡೆಯುತ್ತದೆ, ದೇವಾಲಯವಲ್ಲ.
+Candidate Answer: ಗಡಿಯಾರ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹುಟ್ಟುತ್ತಲೇ ಹುಡುಗ ತಲೆಯಲ್ಲಿ ಟೋಪಿ ಹಾಕಿರುತ್ತೆ.
+Candidate Answer: ಮಶ್ರೂಮ್
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಸಾಗರ ಪುತ್ರ, ಸಾರಿನ ಮಿತ್ರ.
+Candidate Answer: ಹನುಮಂತ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಎರಡು ಗವಿಗಳಿಗೆ ಒಂದೇ ಗೋಡೆ
+Candidate Answer: ಕನ್ನಡತಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕಣ್ಣಿಲ್ಲ, ಕಾಲಿಲ್ಲ,ಆದರು ಚಲಿಸುತಿದೆ ಯಾವುದು ಎಲ್ಲಿದೆ ಬಲ್ಲಿದನ ಹೇಳಿರಲ.
+Candidate Answer: ನೆರಳು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಚಿಕ್ಕಕ್ಕನಿಗೆ ಪುಕ್ಕುದ್ದ
+Candidate Answer: ತೆಂಗಿನಕಾಯಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಎಲ್ಲರ ಮನೆ ಅಜ್ಜಿಗೆ ಮೈಯೆಲ್ಲಾ ಕಜ್ಜಿ
+Candidate Answer: ಉರಗಿನಾಳು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹಲ್ಲು ಹಾಕಿದರೆ ಹಾಲು ಕೆಡೋಲ್ಲ ಕಲ್ಲು ಹಾಕಿದರೆ ಕೆಡುತ್ತೇ
+Candidate Answer: ಹಾಲು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕಲ್ಲಿಲ್ಲದ ಬೆಟ್ಟ ಮರಳಿಲ್ಲದ ಮರುಭೂಮಿ
+Candidate Answer: ಮೋಡ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಒಂದು ಹಣ್ಣಿಗೆ ಹನ್ನೆರಡು ತೊಳೆ ಮತ್ತೂ ಮೂವತ್ತು ಬೀಜ
+Candidate Answer: ವರ್ಷ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಅಕ್ಕನ ಮೇಲೆ ಛತ್ರಿ
+Candidate Answer: ಹೂಗೊತ್ತಿಗೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಅಬ್ಬಬ್ಬ ಹಬ್ಬ ಬಂತು, ಸಿಹಿಕಹಿ ಎರಡೂ ತಂತು.
+Candidate Answer: ಕಬ್ಬು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹೋದ ನೆಂಟ, ಬಂದ ದಾರಿ ಗೊತ್ತಿಲ್ಲ
+Candidate Answer: ಹೆಬ್ಬಾವು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಗುಂಡಾಕಾರ ಮೈಯೆಲ್ಲಾ ತೂತು
+Candidate Answer: ಜಾಲರಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಅಜ್ಜಿಯ ಸೀರೆ ಮಡಚೋಕೆ ಆಗಲ್ಲ, ಅಜ್ಜನ ರೊಕ್ಕ ಎಣಿಸೋಕೆ ಆಗಲ್ಲ
+Candidate Answer: ಮಳೆ, ಬೆಳೆ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ನೀಲಿ ಸಾಗರದಲ್ಲಿ ಬೆಳ್ಳನೆ ಮೀನುಗಳು ನಾನ್ಯಾರು?
+Candidate Answer: ನಕ್ಷತ್ರಗಳು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಮರದೊಳಗೆ ಮರ ಹುಟ್ಟಿ ಮರ ಚಕ್ರ ಕಾಯಾಗಿ ತಿನ್ನಬಾರದ ಹಣ್ಣು ಬಲು ರುಚಿ
+Candidate Answer: ಬೆಲ್ಲದ ಹಣ್ಣು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕೈಲಿದ್ದಾಗ ಗುದಿಸಾಡುತ್ತೇನೆ, ಕೈ ಬಿಟ್ಟಾಗ ಗೊರಕೆ ಒಡೆಯುತ್ತೇನೆ
+Candidate Answer: ಬಾಲ್
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಅಪ್ಪ ಆಕಾಶಕ್ಕೆ ಅವ್ವ ಪಾತಾಳಕ್ಕೆ ಮಗ ವ್ಯಾಪಾರಕ್ಕೆ ಮಗಳು ಮದುವೆಗೆ
+Candidate Answer: ಬೆಂಡೆಕಾಯಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಹೊಕ್ಕಿದ್ದು ಒಂದಾಗಿ ಹೊರಟಿದ್ದು ಅದು ನೂರಾಗಿ
+Candidate Answer: ಹುಂಡಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಚಿಣಿಮಿನಿ ಎನ್ನುವ ಕೆರೆ, ಚಿಂತಾಮಣಿ ಎನ್ನುವ ಹಕ್ಕಿ, ಕೆರೆ ಬತ್ತಿದರೆ ಹಕ್ಕಿಗೆ ಮರಣ
+Candidate Answer: ಬೆಂಕಿ - ನೀರು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಅಂಗಡಿಯಿಂದ ತರೋದು ಮುಂದಿಟ್ಟುಕೊಂಡು ಅಳೋದು
+Candidate Answer: ಈರುಳ್ಳಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ನಾ ಇರುವಾಗ ಬರುತ್ತೆ, ನಾ ಹೋದ ಮೇಲೂ ಇರುತ್ತೆ
+Candidate Answer: ನೆರಳು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಗೂಡ್ನಲ್ಲಿರೋ ಜೋಡಿ ಪಕ್ಷಿ ಊರೆಲ್ಲ ನೋಡುತ್ತೆ
+Candidate Answer: ಕಿಟಕಿ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಲಟಪಟ ಲೇಡಿಗೆ ಒಂದೇ ಕಣ್ಣು
+Candidate Answer: ಕಿರುಬೆರಳು
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Kannada riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Kannada Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ಕುತ್ತಿಗೆ ಇದೆ ತಲೆ ಇಲ್ಲ, ತೋಳಿದೆ ಬೆರಳಿಲ್ಲ, ದಡಾ ಇದೆ, ಕಾಲಿಲ್ಲ.
+Candidate Answer: ಉಡುಪು
+---
+Your single-word (Yes or No):

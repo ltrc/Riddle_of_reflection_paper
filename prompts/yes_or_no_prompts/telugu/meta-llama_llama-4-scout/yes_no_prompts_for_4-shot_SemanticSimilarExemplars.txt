@@ -1,0 +1,1736 @@
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: మొగ్గ కాని మొగ్గ, ఏమి మొగ్గ?
+Candidate Answer: అరటిమొగ్గ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఒకరు పొడుస్తారు, ఒకరు విడుస్తారు?
+Candidate Answer: బాణం, విల్లు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కడుపు లోన పిల్లలు, కంఠము లోన నిప్పులు! అరుపేమో ఉరుము, ఎరుపంటే భయము!!?
+Candidate Answer: అగ్నిగోళము
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: సన్నని స్తంభం, ఎక్కలేరు, దిగలేరు?
+Candidate Answer: ఛాయ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కిరీటము ఉంటుంది కాని రాజును కాదు, నాట్యము చేస్తాను కాని మయూరిని కాదు?
+Candidate Answer: కెంపుగొబ్బెరాకు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: తోలు న‌లుపు, తింటే పులుపు, ఏంటో అది?
+Candidate Answer: నల్లముందుదుంప
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కాటుక రంగు, కమలము హంగు! విప్పిన పొంగు, ముడిచిన క్రుంగు!!?
+Candidate Answer: చెంగలి / పూదండ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కాయలు కాని కాయలు, ఏమి కాయలు?
+Candidate Answer: చిల్లరకాయలు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కార్డు కాని కార్డు, ఏమి కార్డు?
+Candidate Answer: గేమింగ్ కార్డు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: చింపిరి గుడ్డలు! బంగారం లాంటి బిడ్డలు!!
+Candidate Answer: వెదురుకాయ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: పొంగ బోడ‌ది రాంగ జుట్టుది ఏంట‌ది?
+Candidate Answer: చెరుపు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఎముకలు లేని జీవము, ఏటికి పోయింది?
+Candidate Answer: మీన
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అందరికి చెప్పి వొచ్చేది, చెప్పకుండా వెళ్ళేది?
+Candidate Answer: పుకార్లు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: స‌న్న‌టి స్థంభం, ఎవ్వ‌రూ ఎక్క‌లేరు, దిగ‌లేరు ఏంట‌ది?
+Candidate Answer: ఛాయ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: రాజాధి రాజులు కూడా ఒకరిముందు తల వంచుకుంటారు?
+Candidate Answer: జెండా
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఇళ్ళు లేని పట్నాలు, నీళ్లు లేని సముద్రాలు ఎక్కడ ఉంటాయి?
+Candidate Answer: మ్యాప్ లో
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఒకటి పట్టుకుంటే రెండు ఊగుతాయి?
+Candidate Answer: కెంపె
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కాయ, పువ్వు లేని పంట?
+Candidate Answer: అరிசి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అందరూ నన్ను పట్టుకుంటారు కాని నేనే ఎవరిని పట్టుకొను, అందరూ నాతో మాట్లాడతారు కాని నేనే ఎవరితో మాట్లాడను?
+Candidate Answer: టెలిఫోన్
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఇవ్వకుండా తీసుకో లేనిది! తీసుకోకుండా ఇవ్వ లేనిది!!?
+Candidate Answer: ఋణం
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: మేకల్ని తోలేసి తడకలకి పాలు పిండుతారు?
+Candidate Answer: చిక్కుడు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఇల్లంతా తిరిగి మూలకు కూర్చుంటుంది?
+Candidate Answer: మూలిక
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కలి కాని కలి, ఏమి కలి?
+Candidate Answer: కలికలి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: చీకటి ఇంటిలో జడల దయ్యము?
+Candidate Answer: తేలిక
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: మూత తెరిస్తే, ముత్యాల పేరు?
+Candidate Answer: ముగ్గురు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: జాన కాని జాన, ఏమి జాన?
+Candidate Answer: సూరజాన
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఎనమిది ఎముకలు! తట్టెడు ప్రేగులు!!?
+Candidate Answer: చక్రం
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఈగ ముసరని పండు! ఇంటిలో నుండు!!?
+Candidate Answer: ఆబాల పండు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: వీధిరాజుకు కొప్పుది కానీ జుట్టు లేదు, క‌ళ్ళున్నాయి కానీ చూపులేదు ఏంట‌ది?
+Candidate Answer: చదరంగము
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఏది పెడితే అరిగి పోతుంది?, ఏది పెడితే కలకాలం ఉంటుంది?
+Candidate Answer: మనస్సు, రాయి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కడుపు నిండా రాగాలు, వంటి నిండా గాయాలు?
+Candidate Answer: వయోలిన్
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: గీత కాని గీత, ఏమి గీత?
+Candidate Answer: ఉదగీత
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఈ ప్ర‌పంచ‌లోని వారంద‌రూ నా బిడ్డ‌లే కాని అమ్మా! అని న‌న్నెవ‌రు పిల‌వ‌రు ఏం చేయాల‌న్నా ఏమి పొందాల‌న్నా నాలోనే ఎటూ పోవాల‌న్నా ఎక్క‌డికి వెళ్లాల‌న్నా నా మీదే..నేనెవ‌ర్ని?
+Candidate Answer: ప్రపంచం
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అది లేకపోతే ఎవ్వరూ ఏమీ తినరు?
+Candidate Answer: ఆహారం
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఇద్దరు అక్క చెల్లెల్లు, ప్రపంచం మొత్తం తిరిగి చూసినా, ఒకరినొకరు చూసుకోరు?
+Candidate Answer: ఎడమ, కుడి చేతులు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: చెట్టుకు కాయ‌ని కాయ కర‌క‌ర‌లాడే కాయ‌? ఏంట‌ది?
+Candidate Answer: అరటి కాయ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఇల్లు మొత్తం వెలుగు, బల్ల కింద చీకటి?
+Candidate Answer: టపాకింద చీకటి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఇంట్లో మొగ్గ బ‌య‌ట‌కొస్తే పువ్వు?
+Candidate Answer: చింతపండు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఆడవారు తక్కువగా మాట్లాడే నెల?
+Candidate Answer: శ్రీరామనవమి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: నాలుగు క‌ర్ర‌ల మ‌ద్య న‌ల్ల‌రాయి? ఏంట‌ది?
+Candidate Answer: బిల్లింగి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఆడదానికి పుట్టినింట ఒకటి, మెట్టినింట ఒకటి?
+Candidate Answer: పేరు, పేరు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అడవిలో చిన్న గని, గనికి చాలా గదులు, గదికొక్క సిపాయి, సిపాయికొక్క తుపాకి?
+Candidate Answer: చీమల పుట్ట
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఎర్రగా ఉంటాను కాని నేనెవరితో సరసాలాడను, నన్ను ముట్టుకుంటే ఊరుకోను.
+Candidate Answer: అగ్గి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఇష్టంగా తెచ్చుకుంటారు, చంపి ఏడుస్తారు?
+Candidate Answer: చెరువు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఇంటిలో ఉంటే ప్రమోదము, ఒంటిలో ఉంటే ప్రమాదము?
+Candidate Answer: బొగ్గు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అన్నదమ్ములు ఇద్దరు, ఒకరంటే మరొకరికి పడదు, ఎప్పుడూ కొట్టుకుంటూనే ఉంటారు. వారి మధ్యకు ఎవరైనా వొస్తే పచ్చడి పచ్చడే?
+Candidate Answer: ఆవు, వెల్లుల్లి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: సముద్రంలో పుట్టిపెరిగి ఊరిలో అరుస్తుంది, ఏమిటది?
+Candidate Answer: చెరువు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అడ‌విలో పుట్టాను అడ‌విలో పెరిగాను వంటినిండా గాయాలు క‌డుపునిండా రాగాలు
+Candidate Answer: వయలిన్
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కోడి కాని కోడి, ఏమి కోడి?
+Candidate Answer: పకోడి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: చారల పాపకి దూది కుచ్చు!
+Candidate Answer: మేక
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: నీళ్లు నుంచి వ‌స్తుంది. నీకు నాకూ రుచిస్తుంది? ఇంత‌కీ ఏమిట‌ది?
+Candidate Answer: చాయ్
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: పొద్దుటూరి చెట్లలో పొదిలింది చెళవాయి, చూసే వారే కాని పట్టే వారు లేరు?
+Candidate Answer: అలలు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అన్నదమ్ములు ముగ్గురు, తిరిగితే ముగ్గురూ తిరుగుతారు, మానితే ముగ్గురూ మానుతారు?
+Candidate Answer: చెవులు, కాళ్లు, చేతులు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కీచు కీచు పిట్ట! నేలకేసి కొట్ట!!
+Candidate Answer: గొబ్బెమ్మ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: రెండు కొడతాయి, ఒకటి పెడుతుంది?
+Candidate Answer: కోళ్ళు, దెయ్యాలు, గుడ్డు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: గారు కాని గారు, ఏమిగారు?
+Candidate Answer: చేరు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఇంట్లో మొగ్గ, వీధిలో పువ్వు?
+Candidate Answer: పసుపు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: తెల్ల‌టి శ‌న‌గ‌ల‌లో ఒక‌టేరాయి, చేతితో చ‌ల్ల‌డం నోటితో ఏరుకోవ‌డం ఏంట‌ది?
+Candidate Answer: అరిసెలు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: తెలిసేలా పూస్తుంది, తెలియకుండా కాస్తుంది?
+Candidate Answer: చెట్టు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కర్రలతో అతి చిన్న కర్ర?
+Candidate Answer: పెన్సిల్
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఊరంతా కదిలిన, ఊరగాయ కుండ కదలదు?
+Candidate Answer: రెండోరి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఉరికంత ఒక్కటే దుప్పటి?
+Candidate Answer: చెంగు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: చ‌క్క‌న‌మ్మ చిక్కినా అందంగా ఉంటుంది? ఏంట‌ది?
+Candidate Answer: సబ్బు బుల్లెట్ల
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అడ‌విలో పుట్టింది అడ‌విలో పెరిగింది మా ఇంటికొచ్చింది తైత‌క్క లాడింది.
+Candidate Answer: చక్కెడు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ప‌చ్చ‌ని పాముకు తెల్ల‌ని చార‌లు? ఏంట‌ది?
+Candidate Answer: కొబ్బరి ప葉
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ముళ్ల కంచెలో మిఠాయి పొట్లం?
+Candidate Answer: అముక్కు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఎర్రనిచెట్టు! నీళ్లు పోస్తే చస్తుంది!!?
+Candidate Answer: అగ్గిపట్టు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కొక లేదు, సీత కాదు! రామ చిలుక కానేకాదు!! అదేమిటి?
+Candidate Answer: పార్వతి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఆడవారికి ఉండనిది, మగవారికి ఉండేది?
+Candidate Answer: బాకా
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: పెద్ద ఇంటిలో పొట్టివాన్ని నిలబెడితే నిండా నేనే?
+Candidate Answer: ఆబు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అగ్గిపెట్టెలో ఇద్ద‌రు పోలీసులు ఏంట‌ది?
+Candidate Answer: మైనపులకర్రలు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: జీడివారి కోడ‌లు సిరిగ‌ల వారికి ఆడ‌ప‌డుచు వ‌య‌సులో కులికే వ‌య్యారి వైశాఖ‌మాసంలో వ‌స్తుంది.
+Candidate Answer: ఉగాది పచ్చడి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కిరు కిరు త‌లుపులు కిటారు త‌లుపులు వెయ్యంగ వెయ్య‌స్త‌వి గాని తియ్యంగా తియ్య‌రావు ఏంట‌వి?
+Candidate Answer: చెవులు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: మొదట చప్పన, నడుమ పుల్లన, కొస కమ్మన?
+Candidate Answer: పసుపు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: చీక‌టింట్లో జ‌డ‌ల ద‌య్యం ఏమిట‌ది?
+Candidate Answer: వెలుగు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అన్నింటికన్నా విలువైనది, అందరికి అవసరమైనది?
+Candidate Answer: సమయం
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: చిన్న చిట్టిలో కమ్మని కూర?
+Candidate Answer: ఇమ్మATURE  లేదు,  చిన్న చిట్టిలో కమ్మని కూర = మామిడి పచ్చడి  లేదు ...చిట్టి అంటే చిన్న అని కాదు.  చిట్టి అంటే ఆకు అని తెలుగులో అర్ధం 
+చిన్న ఆకు లో  కమ్మని కూర = ఆకు లో పచ్చడి కి అత్యుత్తమ  ఎంపిక  తోటి చిట్టి  అది  ఏది అంటే 
+చిట్టి ఆకు = తోట చిట్టి ఆకు 
+అందులో  కూర  కమ్మని  = తోట చిట్టి పచ్చడి 
+చిన్న చిట్టి లో  కమ్మని కూర = తోట చిట్టి పచ్చడి లేదు ....చిట్టి అంటే  చిన్న అని కాదు  చిట్టి అంటే ఆకు 
+చిన్న ఆకు = చిట్టి ఆకు 
+చిట్టి ఆకులో  కూర  తీయనిది లేదు కాని కమ్మని ఉన్నది  ఏది అంటే  తోటి చిట్టి 
+చిన్న  అనే పదం  చిట్టి అనే పదం  తోటి చిట్టి  అది కావాల్సిన 
+అక్షరాలు చిన ,  అందుకే  అదే 
+చిన్న చిట్టిలో కమ్మని కూర = తోటిచ్చి పచ్చడి 
+చిన్న చిట్టిలో కమ్మని కూర = పచ్చడి 
+చిన్న చిట్టిలో కమ్మని కూర = చింతపచ్చడి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అడవిలో పుట్టాను, నల్లగా అయ్యాను, ఇంటికి వచ్చాను, ఎర్రగా మారాను, తొట్టిలో పడ్డాను తెల్లగా మారాను?
+Candidate Answer: బొగ్గు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కొనే టప్పుడు నలుపు, తినేటప్పుడు ఎరుపు, పారేసేటప్పుడు తెలుపు ఏమిటది?
+Candidate Answer: పుగలకర్ర
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: రాళ్ల అడుగున విల్లు, విల్లు కోనలో ముళ్లు?
+Candidate Answer: చేప
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: నల్ల స్తంభం పైన నలుగురు దొంగలు?
+Candidate Answer: దీపం
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: రాజుగారి తోట‌లో రోజాపూలు చూచేవారేగాని లెక్క‌వేసేవారు కాదు ఏమిట‌వి?
+Candidate Answer: రాజుగారి గుండు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: గట్టుమీద రాయి! మినుకు మినుకు రాయి!!
+Candidate Answer: పెట్టుమీద రాయి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అందమైన గిన్నెలో ఎర్రని పిట్ట తోకతో నీళ్లు త్రాగుతుంది
+Candidate Answer: పుష్పగుచ్ఛం
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: చిన్న పాపకు చాలా చీరలు. ఏమిటది?
+Candidate Answer: చెరకు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఎర్రవాడొస్తే తెల్లవాడు, పారిపోయి దాక్కుంటాడు?
+Candidate Answer: పగలు, రాత్రి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: గాలిలో ఎగిరే అద్దము పట్టుకుంటే పలిగి పోవు?
+Candidate Answer: ఈత పతంగి
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అబ్బాయి గారి దొడ్లో పెద్ద పండు పడితే, పరుగెత్తలేక పది మంది చచ్చారు.
+Candidate Answer: అండా
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: నూరు పళ్ళు ఒకటే నోరు?
+Candidate Answer: చెంగలవ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: గోళము కాని గోళము, ఏమి గోళము?
+Candidate Answer: చక్రగోళము
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: గోడకు గొలుసు పండు!?
+Candidate Answer: దీపం
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అందమైన చిన్నది, అందాల చిన్నది, నువ్వు చుస్తే నిన్ను చూస్తుంది, నేను చుస్తే నన్ను చూస్తుంది?
+Candidate Answer: అద్దం
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: అడుగులున్నా, కాళ్ళులేనిది?
+Candidate Answer: మెట్లు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: కిట కిట తలుపులు! కిటారు తలుపులు!! ఎప్పుడు తీసినా చప్పుడు కాదు?
+Candidate Answer: చేతివృత్తులు
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఆకులు లేని అడ‌విలో జీవం లేని జంతువు జీవాల‌ను వేటాడుతుంది ఏంట‌ది?
+Candidate Answer: చదరంగం
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Telugu riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Telugu Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ఈత చెట్టుకు ఇద్దరు బిడ్డలు?
+Candidate Answer: ఈతచెట్టుకు ఇద్దరు బిడ్డలు అనేదానికి సమాధానం కొబ్బరి
+---
+Your single-word (Yes or No):

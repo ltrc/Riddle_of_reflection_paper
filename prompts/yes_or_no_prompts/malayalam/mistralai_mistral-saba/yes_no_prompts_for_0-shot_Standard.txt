@@ -1,0 +1,1726 @@
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ഞെട്ടില്ല വട്ടേല?
+Candidate Answer: അരിപ്പ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: മുള്ളുണ്ട് മുരിക്കല്ല, കൊമ്പുണ്ട് കുത്തില്ല, പാലുണ്ട് പശുവല്ല.
+Candidate Answer: തെങ്ങ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ചെടി ചെടിയിന്മേൽകായ് കയ്യിന്മേൽ ചെടി?
+Candidate Answer: അരിപ്പ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: നല്ല നായ്ക്ക് നാവിന്മേൽ പല്ല്
+Candidate Answer: ഉറുമ്പ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: കുത്തുന്ന കാളക്ക് പിന്നിൽ കണ്ണ്?
+Candidate Answer: പൂച്ച
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: കരടിയിലുണ്ട് കുതിരയിലില്ല, ഉഴുന്നിലുണ്ട് ഉലുവയിലില്ല, ജനതയിലുണ്ട് ജനങ്ങളിലില്ല. മൂന്നക്ഷരമുള്ള ഞാനാര്?
+Candidate Answer: ഉറുമ്പ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: കാലുപിടിക്കുന്നവനെ സംരക്ഷിക്കുന്നവൻ?
+Candidate Answer: ഉയറ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: അകത്തുരോമം പുറത്തിറച്ചി?
+Candidate Answer: അരിപ്പട്ട
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: കണ്ടാലൊരു വണ്ടി, തൊട്ടാലൊരു ചക്രം?
+Candidate Answer: ഒരു പുലി
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ഒരമ്മ പെറ്റതെല്ലാം കറുത്ത പട്ടാളം?
+Candidate Answer: കുരുമുളക്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ഉണ്ടാക്കുന്നവൻ ഉപയോഗിക്കുന്നില്ല, ഉപയോഗിക്കുന്നവൻ അറിയുന്നില്ല?
+Candidate Answer: കടല്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: അമ്മയെകുത്തി മകൻ മരിച്ചു?
+Candidate Answer: അമ്മയെകുത്തി മകൻ മരിച്ചു?
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ആയിരം പറ അവളിൽ ഒരു നുള്ള് കൊട്ടത്തേങ്ങ?
+Candidate Answer: കണ്ണ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: അടി മുള്ള്, നടു കാട്, തല പൂവ്?
+Candidate Answer: മുള്ള്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: മുറ്റത്തെ ചെപ്പിനു അടപ്പില്ല?
+Candidate Answer: മലയാളം
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ആയിരം പോലീസുകാർക്ക് ഒരു ബെൽറ്റ്?
+Candidate Answer: ആയിരം
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ഇട്ടാൽ പൊട്ടും ഇംഗ്ലീഷ് മുട്ട?
+Candidate Answer: ഇംഗ്ലീഷ് മുട്ട
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ആനയിലുണ്ട് ചേനയിലില്ല, ഇമയിലുണ്ട് ഇഷ്ട്ടത്തിലില്ല. രണ്ട് അക്ഷരമുള്ള ഞാനാര്?
+Candidate Answer: കണ്ണ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ഓടും കുതിര, ചാടും കുതിര, വെള്ളം കണ്ടാൽ നില്കും കുതിര?
+Candidate Answer: ഓടും കുതിര, ചാടും കുതിര, വെള്ളം കണ്ടാൽ നില്ക്കും കുതിര എന്നത് നിഴൽ ആണ്.
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ഒരു അമ്മ പെറ്റതെല്ലാം തൊപ്പികുട്ടന്മാർ?
+Candidate Answer: മഴ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: അടി പാറ, നാട് വടി, മീതെ കുട?
+Candidate Answer: കടൽ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: അങ്ങോട്ടോടും, ഇങ്ങോട്ടോടും. നേരെനിന്ന് സത്യം പറയും?
+Candidate Answer: കണ്ണ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: മുള്ളുണ്ട് മുരിക്കല്ല, കൈപ്പുണ്ട് കാഞ്ഞിരമല്ല?
+Candidate Answer: അരിപ്പൂവ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: അടിക്കൊരുവെട്ടും നടുക്കൊരു കെട്ടും തലക്കൊരു ചവിട്ടും?
+Candidate Answer: അടിക്കൊരുവെട്ടും നടുക്കൊരു കെട്ടും തലക്കൊരു ചവിട്ടും? Answer : കായല്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ആയിരം കിളികൾക്ക് ഒറ്റക്കൊക്ക്?
+Candidate Answer: ഒറ്റക്കൊക്ക്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: എന്നെ തൊട്ടുകൂട്ടും, പക്ഷെ സദ്യക്ക് എടുക്കില്ല?
+Candidate Answer: കണ്ണ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ഒരു കുപ്പിയിൽ രണ്ടെണ്ണ?
+Candidate Answer: കണ്ണ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: കിക്കിലുക്കം, കിലുകിലുക്കം ഉത്തരത്തിൽ ചത്തിരിക്കും?
+Candidate Answer: ആലുക
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: കാടുണ്ട് കടുവയില്ല, വീടുണ്ട് വീട്ടാറില്ല, കുളമുണ്ട് മീനില്ല?
+Candidate Answer: പുസ്തകം
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: പൊന്നുതിന്ന് വെള്ളിതുപ്പി?
+Candidate Answer: കടല്‍
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: മലയിലെ അമ്മക്ക് നെറുകയിൽപൂവ്?
+Candidate Answer: പൂക്കൂട്ടം
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: മരങ്ങൾക്കും ബാങ്കുകൾക്കും പൊതുവായുള്ളത് എന്താണ് ?
+Candidate Answer: അക്ഷരം
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ആരും ഇഷ്ടപ്പെടാത്ത പണം ഏതാണ് ?
+Candidate Answer: തിരിച്ച്‌
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ആൺകുട്ടികളും പെൺകുട്ടികളും ഒരുപോലെ ഉപയോഗിക്കുന്ന മാല ?
+Candidate Answer: കൂർത്തോല്‍
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ആരും പോകാൻ ആഗ്രഹിക്കാത്ത അറ ?
+Candidate Answer: പുഴയ്‌ക്കര
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: എല്ലാവർക്കും വിളമ്പി നൽകുകയും സ്വയം ഒന്നും കഴിക്കാതിരിക്കുകയും ചെയ്യുന്നത് ആരാണ് ?
+Candidate Answer: അമ്മ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: തലകുത്തി നിന്നാൽ വലുതാകുന്നത് ആര് ?
+Candidate Answer: കണ്ണ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: വെച്ചടി വെച്ചടി കയറ്റം കിട്ടുന്ന ജോലി?
+Candidate Answer: കൊച്ചുപ്പൂ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: കുടിക്കാൻ പറ്റുന്ന ഇഗ്ലീഷ് അക്ഷരം ?
+Candidate Answer: C
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: എല്ലാവരും ഇഷ്ടപ്പെടുന്ന വാർഡ് ഏത്..?
+Candidate Answer: അമ്മ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: കുറ്റവാളികൾ ഭയപ്പെടുന്ന മരം ഏതാണ്.?
+Candidate Answer: തേക്ക്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: വണ്ടി ഓടാത്ത റൂട്ട് ഏത്?
+Candidate Answer: താഴ്‌വര
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ആരും ഇഷ്ടപ്പെടാത്ത ദേശം ഏതാണ് ?
+Candidate Answer: നരകം
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: നിങ്ങളുടെ മുന്നിലുണ്ട് എന്നാൽ നിങ്ങൾക്ക് കാണാൻ കഴിയില്ല. എന്താണത് ?
+Candidate Answer: കാറ്റ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: എന്നും ഉപ്പിലിടുന്ന വസ്തു ഏതാണ് ?
+Candidate Answer: കണ്ണ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: പോലീസുകാർ ഒറ്റക്കാലിൽ നിൽക്കുന്നത് എപ്പോൾ ?
+Candidate Answer: ചിലമ്പ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: എപ്പോഴും വിശപ്പുള്ള രാജ്യം ഏത്..?
+Candidate Answer: വയറ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ആളുകൾ എപ്പോഴും തെന്നിവീഴുന്ന രാജ്യം ഏത്..?
+Candidate Answer: ആഫ്രിക്ക
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: എപ്പോഴും മഴയുള്ള രാജ്യം ഏത്..?
+Candidate Answer: ആകാശം
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ന്യൂസുകൾ കൂടുതൽ ഉള്ള രാജ്യം ഏത്..?
+Candidate Answer: നോർവേ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ഏറ്റവും കൂടുതൽ തിരക്കുള്ള രാജ്യം ഏത്..?
+Candidate Answer: ഏറ്റവും കൂടുതൽ തിരക്കുള്ള രാജ്യം ഏത്..?
+ഏറ്റവും കൂടുതൽ തിരക്കുള്ള രാജ്യം കേരളമാണ്.
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ഒരു മീനിനെ പിടിച്ചു കരയ്ക്ക് ഇട്ടാൽ എന്തുപറ്റും ?
+Candidate Answer: നീന്തല്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: വധൂവരന്മാർ ആദ്യമായി കഴിക്കുന്നത് എന്താണ് ?
+Candidate Answer: പുഷ്പം
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: പിറകിൽ നിന്ന് ആരെങ്കിലും വിളിച്ചാൽ തിരിഞ്ഞു നോക്കുന്നത് എന്തുകൊണ്ട് ?
+Candidate Answer: കണ്ണ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: നിങ്ങളുടെ സ്വന്തം ആണെങ്കിലും ഇത് കൂടുതലും ഉപയോഗിക്കുന്നത് മറ്റുള്ളവരാണ്. എന്ത് ?
+Candidate Answer: ഏഴുതല്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ഇടുമ്പോൾ ടൈറ്റ് ആയിരിക്കും ഇട്ടു കഴിഞ്ഞാൽ ലൂസ് ആയിരിക്കും ?
+Candidate Answer: ഉറപ്പ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ആകാശത്തൊരു കൂട്ടിനുള്ളില്‍ മുപ്പത്തിരണ്ടു വെള്ളാന
+Candidate Answer: ചന്ദ്രന്‍
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: വീട്ടിലെ കോവിലിൽ മൂന്നുണ്ട് ദൈവങ്ങൾ.
+Candidate Answer: അക്ഷരം
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: വെട്ടും തോറും വളരും ഞാൻ.
+Candidate Answer: കടൽ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: വെള്ളച്ചാരെ മാറ്റിയിരുത്തി, ചോപ്പന്മാരെ കേറ്റിയിരുത്തി.
+Candidate Answer: കടൽ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: വെള്ളമതിലിനുള്ളിൽ ഒരു വെള്ളിവടി.
+Candidate Answer: അരിപ്പ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: വെള്ളിക്കിണ്ണത്തിൽ ഞാവൽപ്പഴം.
+Candidate Answer: കണ്ണ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: വാലില്ലാത്തമ്മയ്ക്ക് വാലുള്ള മക്കൾ.
+Candidate Answer: മരം
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: വില്ലാണ് പക്ഷേ ഞാണില്ല കെട്ടാൻ.
+Candidate Answer: വില്ല്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: വട്ടത്തിൽ ചവിട്ടിയിൽ നീളത്തിലോടും.
+Candidate Answer: ഉറുമ്പ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: വരുമ്പോൾ കറുത്തിട്ട്, പോകുമ്പോൾ വെളുത്തിട്ട്.
+Candidate Answer: കറുത്ത പേന
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: മുള്ളിനുള്ളിലെ സുന്ദരിക്കുട്ടി.
+Candidate Answer: കതിര്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: മുള്ളില്ലാത്ത പുറംകാട്ടിൽ എല്ലില്ലാത്ത ഒരെലിക്കുഞ്ഞ്.
+Candidate Answer: കടൽ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: പുക തുപ്പുന്ന പാമ്പ്.
+Candidate Answer: സിഗരറ്റ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: പൂട്ടാനെളുപ്പം തുറക്കാനാവില്ല.
+Candidate Answer: കിളി
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: പലകക്കീഴെ പച്ചയിറച്ചി.
+Candidate Answer: പച്ചക്കറി
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: തുമ്പിക്കൈയില്ലാത്ത ആന.
+Candidate Answer: ആനകൊട്ടി
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: തെക്ക് നിന്ന് വന്ന കാളയ്ക്ക് പള്ളയ്ക്കൊരു കൊമ്പ്.
+Candidate Answer: അരിമ്പുഴ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: തേങ്ങാപ്പൂളൊരു തേങ്ങാമുറിയായ്.
+Candidate Answer: കത്തിവാഴ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: തൊട്ടാൽ ചൊറിയൻ തിന്നാൻ രസികൻ.
+Candidate Answer: കടൽ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: തോളിൽ തൂങ്ങുന്ന തല്ലുകൊള്ളി.
+Candidate Answer: ഒറ്റയാട്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ചത്ത പോത്ത് കോലെടുത്താലോടും.
+Candidate Answer: കോഴി
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: കിഴക്കൂന്ന് വരവ്, പടിഞ്ഞാട്ട് പോക്ക്.
+Candidate Answer: കിഴക്കൂന്ന്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: കുളിക്കാൻ പോകുമ്പോൾ കുഴഞ്ഞുമറിഞ്ഞ്, കുളിച്ചു വരുമ്പോൾ ബലാബലൻ.
+Candidate Answer: അമ്പലം
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ഒരമ്മ എന്നും വെന്തും നീറിയും
+Candidate Answer: വെള്ളം
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ഒരു തൊഴുത്തിൽ രണ്ടുവരി വെള്ളക്കുതിര.
+Candidate Answer: ഉറുമ്പ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: എന്നെ തൊട്ടാൽ തൊടുന്നവനെ തട്ടും.
+Candidate Answer: കൈ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ആരോടും മല്ലടിക്കും, വെള്ളത്തോട് മാത്രമില്ല.
+Candidate Answer: ഉപ്പ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ആരാലും അടിക്കാത്ത മുറ്റം.
+Candidate Answer: ആകാശം
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ആരും കാണാതെ വരും, ആരും കാണാതെ പോകും.
+Candidate Answer: കടൽ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: അകത്ത് പോയപ്പോൾ പച്ച, പുറത്ത് വന്നപ്പോൾ ചുവപ്പ്.
+Candidate Answer: നീലക്കുട്ടി
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: അടയ്ക്കും തുറക്കും കിങ്ങിണി പത്തായം.
+Candidate Answer: അക്ഷരം
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: വായില്ല നാക്കുണ്ട്, നാക്കിന്മേൽ പല്ലുണ്ട്.
+Candidate Answer: പേനാ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: പിടിച്ചാൽ പിടികിട്ടില്ല, വെട്ടിയാൽ വെട്ടേൽക്കില്ല.
+Candidate Answer: കാറ്റ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: കാലില്‍ പിടിച്ചാല്‍ തോളില്‍ കയറും
+Candidate Answer: അച്ച്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: കറുത്ത പാറമേല്‍ വെളുത്ത വേര്‍
+Candidate Answer: പെന്‍
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: കറുപ്പാണ് എന്‍റെ നിറം...നീ എവിടെ പോയലും നിന്‍റെ കൂടെ ഞാനും വരും
+Candidate Answer: അക്ഷരങ്ങൾ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: കൈയില്ല കാലില്ല, വാലുണ്ട് വയറുണ്ട്, നീരാടിപ്പോരുമ്പോള്‍ കൊല്ലും ഞാന്‍ നൂറാളെ
+Candidate Answer: പുഴ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ചത്തു കിടക്കുന്ന പാമ്പ് വടിയെടുത്തല്‍ ഓടും
+Candidate Answer: ഉറുമ്പ്
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: പഞ്ചപാണ്ഡവര്‍ക്ക് അഞ്ചുപേര്‍ക്കും കൂടി ഒരു മുറ്റമേയുള്ളൂ
+Candidate Answer: അക്ഷരങ്ങൾ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Malayalam riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Malayalam Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: എല്ലാം തിന്നും എല്ലാം ദഹിക്കും വെള്ളം കുടിച്ചാല്‍ ചത്തും പോകും
+Candidate Answer: നീലി
+---
+Your single-word (Yes or No):

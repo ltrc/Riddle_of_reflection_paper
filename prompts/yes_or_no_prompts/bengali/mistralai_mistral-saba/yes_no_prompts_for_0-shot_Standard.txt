@@ -1,0 +1,3453 @@
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কাঁচাতে যেই ফল সর্বজনে খায়, পাঁকলে সেই ফল গড়াগড়ি যায়
+Candidate Answer: কলা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: জল ছাড়া নদী, পাথর ছাড়া পাহাড় এবং মানুষ ছাড়া শহর কোথায় পাওয়া যায়?
+Candidate Answer: মানচিত্রে
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: যদি থাকে বুদ্ধি বলো দেখি কোন সুখে সুখ নেই?
+Candidate Answer: মৃত্যু
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কালিদাস পন্ডিতের ফাঁকি, আড়াইশো থেকে পাঁচ পঞ্চাশ গেলে আর কত থাকে বাকী?
+Candidate Answer: শূন্য
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: বাঘের মত লাফ দেয়, কুকুর হয়ে বসে, পানির মধ্যে ছেড়ে দিলে, ছোলা হয়ে ভাসে।
+Candidate Answer: মাছ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: শহর থেকে এল সাহেব কোর্ট প্যান্ট পরে, কোর্ট প্যান্ট খোলার পরে চোখ জ্বালা করে।
+Candidate Answer: পিঁয়াজ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ৩ অক্ষরের নাম তার পেট ভরে পানি খায় মাঝের অক্ষর বাদ দিলে আলোয় ভরে যায়,
+Candidate Answer: পানি
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কান নাই মাথা নাই, পেট ভরে খায়, কাম নাই কাজ নাই, মাথা নিয়ে ঘুমায়।
+Candidate Answer: পাথর
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: আমি কাদাঁই, আমি হাসাই, নই আমি প্রাণি, আমায় দেখে সবাই ক্ষনিক ভোলে ব্যাথার বানী।
+Candidate Answer: চিত্র
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: আন্ধার ঘরে থাকি আমি নড়াচড়া করি, একটুখানি খাবার পেলে খাবলে তাকে ধরি।
+Candidate Answer: মাকড়সা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: হাঁড়ির ভিতর, বালির ভিতর হাজার ছেলে নাচে, একটু পরই হয় সে খাবার তপ্ত চুলার আঁচে।
+Candidate Answer: পপকর্ন
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এতো বড় আঙিনা ঝাড় দিয়েও কুলোয় না। কতো ফুল ফুটে আছে নাই তার তুলনা!
+Candidate Answer: আকাশ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: চার পায়ে বসি মোরা, আট পায়ে চলি। বাঘও নই ভাল্লুকও নই আস্ত কাঁধে ঝুলি।
+Candidate Answer: গাধা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরে নাম তার সর্ব অঙ্গে কালো, মাঝের অক্ষর বাদ দিলে খেতে লাগে ভাল
+Candidate Answer: কালো
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: আশ্চর্য এক কথা শুনলে হাসি পায় নিজে দেখতে পায় না কিন্তু অপরকে দেখায়।
+Candidate Answer: চশমা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরের নাম তার সবাই খায়, প্রথম অক্ষর ছেড়ে দিলে মেয়েদের হাতে যায়।
+Candidate Answer: পোস্ত
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: চোখ আছে, কান নাই, হাত আছে, প্রাণ নাই।
+Candidate Answer: পুতুল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এক বাড়িতে চার ভাই, তাদের গায়ে একই সাজ, কারো মুখে কেশ নাই, দিন শেষে বাড়ায় রাজ।
+Candidate Answer: দিন
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এক পায়ে দাঁড়িয়ে আছে, হাত দিয়ে ঠেলে দিলে, দৌড়ে পালিয়ে যায়।
+Candidate Answer: পেন্সিল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: সাদা দুটি পুকুরে কালো হিরে চকচক করে।
+Candidate Answer: চোখ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: দিনের বেলায় ঘুমিয়ে থাকে রাতের বেলায় জাগে ঘর-বাড়ি নেই আকাশেতে থাকে
+Candidate Answer: চাঁদ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: চাঁদ নয় সূর্য নয় আলো দেয় রাতে গাছে গাছে উড়ে বেড়ায় টিমটিম আলোতে।
+Candidate Answer: জোনাকি
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: গলা আছে মাথা নেই হাত আছে পা নেই এটি কি বলবে আমায়?
+Candidate Answer: কলম
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: বাঘ নয় তবে মানুষ খায় পাখি নয় তবে উড়ে যায় বোলতা নয় তবে শুং আছে জন্তু নয় তবে পা আছে।
+Candidate Answer: মশা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: মাথার উপর রাখে আমায় রোদ-বর্ষার দিনে বাকি সময় পড়ে থাকি শুধু ঘরের কোনে৷
+Candidate Answer: ছাতা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: দাদু বুড়ো, ঠাকুমা বুড়ি আমাতে বুড়ো কী? পাঁচ আঙুলে রয়েছে সেটি বলবে সেটি কী?
+Candidate Answer: নখ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: উপরে থেকে পড়ল হাঁড়ি হাঁড়ির ভেতরে একশো কড়ি।
+Candidate Answer: করা (Potato)
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ঘরের ভেতরে ঘর সেখানে গিয়ে শুয়ে পড়।
+Candidate Answer: চোখ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এক থালা সুপারি গুণতে না পারি।
+Candidate Answer: চাঁদ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: জটা ভরা মাথায় হাজার চোখে তাকায়।
+Candidate Answer: আকাশ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: থাকি গভীর জলে মাঝের বর্ণ ছেড়ে দিলে আকাশে যাই উড়ে।
+Candidate Answer: মাছ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: প্রজাপতি, প্রজাপতি বলছি শোন কী তিনটি মাথা, দশটি ঠ্যাং দেখেছ তুমি কি?
+Candidate Answer: গরু
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: লেবু টক, জলপাই টক আর টক কী পাতার আড়ালে ঝুলে থাকি আমায় চেন কি?
+Candidate Answer: জিহ্বা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: লম্বা কেশর ফুলিয়ে তোলা গম্ভীর মেজাজ; রাজার মতো চেহারা তাই নামটি পশুরাজ
+Candidate Answer: সিংহ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: আয় আয় তু তু খেতে দেব দু দু! ল্যজটি তুলে নাচবি সুখে, হাসবে সোনার খুকু!
+Candidate Answer: হাত
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: গাছে হয় ঘরে আনি রান্না হয় খাওয়ার সময় ফেলা হয় ।
+Candidate Answer: পাতা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: পাখা আছে মোর না পারি উড়তে, আঁখি আছে মোর না পারি মুদতে। পা নাই মোর তবুও ঘুরি। জীবন কাটাই জলে চরি। যদি তুমি আমায় চিনতে পারো তবে মোর নামটি মনে করো।
+Candidate Answer: মাছ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন বর্ণের নামটি আমার আরাম করে শুই প্রথম বর্ণ কেটে দিলে দুধের থেকে হই মাঝের বর্ণ কেটে দিলে ছাড়া পেয়ে যাই শেষের বর্ণ কেটে দিলে ভীষণ ভয় পাই।
+Candidate Answer: আরাম
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: দুই বর্ণের শব্দ আমি জলের মাঝে রই দ্বিতীয় বর্ণ কাটলে পরে আপন আমি হই।
+Candidate Answer: নদী
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ফরসা সাহেবেরা কালো টুপি পরে, একবার ঘসে দিলে উঠে যে জ্বলে
+Candidate Answer: ম্যাচ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: বড়ো একটি পুকুরের ছোটো দুটি ঘাট, বত্রিশটি কলাগাছ, একটি পাতা তাতে ৷
+Candidate Answer: দাঁত
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ওপার থেকে এলো বুড়ি সাদা কাপড় পরে মহানন্দে বসল খেতে ঘাড় নেড়ে নেড়ে
+Candidate Answer: চাঁদ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কোন দেশ বাজে কোন দেশ বলো দেখি তেল ঘিতে ভাজে
+Candidate Answer: বাংলাদেশ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: জলের জন্তু নয় তবুও জলেই  বাস করে হাত নেই পা নেই তবু সাঁতার কাটে
+Candidate Answer: পাতিল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরে নাম যার সবার ঘরে রয় প্রথম অক্ষর বাদ দিলে সর্ব লোকে খায়। পেট তার কেটে দিলে মধুর গান গায় শেষ অক্ষর বাদ দিলে খুব কামরায়
+Candidate Answer: বাতাস
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: দু’অক্ষরে নাম তার বহু লোকে খায় শেষের অক্ষর বাদ দিলে হেঁটে চলে যায়
+Candidate Answer: পোলা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: দু’অক্ষরে নাম লজ্জা নিবারণী প্রথম অক্ষর বাদ দিলে হয় আমার জননী শেষের অক্ষর বাদ দিলে ভাশুর ঘরণী
+Candidate Answer: বস্ত্র
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: প্রাণ নেই বন্ধু নয়, চলে সাথে সাথে আলো পেলে তবে চলে দিনে কিংবা রাতে
+Candidate Answer: ছায়া
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরে নাম তার প্রতি ঘরে পাবে অধ্যক্ষর বাদ দিলে বৎসর বুঝাবে মধ্য অক্ষর গেলে সবার ক্ষতি করে শেষের অক্ষর গেলে সবাই অবস্থান করে
+Candidate Answer: লতাগুড়
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: দুই অক্ষরের নাম যার সব যায়গায় রায় প্রথম অক্ষর বাদ দিলে খাবার জিনিস হয়, শেষের অক্ষর বাদ দিলে আপনজন হয়
+Candidate Answer: মা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: একলা তারে যায় না দেখা, সঙ্গী গেলে বাঁচে। আধার দেখে ভয়ে পালায়, আলোয় ফিরে আসে।
+Candidate Answer: ছায়া
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: একটুখানি পুস্কনি, পানি টলমল করে। রাজার ছেলের সাধ্য নেই, জাল ফেলতে পারে।
+Candidate Answer: চোখ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: একটি গাছের বাঁট নাই, তবু দুগ্ধ হয় প্রচুর। দোহনকালে থাকে নাকো, তার নিকটে বাছুর।
+Candidate Answer: নদী
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: একটি হলে কাজ হবে না, দুটি কিন্তু চাই। দুটি পেলে, হবে চাষী ভাই।
+Candidate Answer: লাঙল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এপার ঝাটি, ওপার ঝাটি। ঝাটিতে করে, পিটা পিটি।
+Candidate Answer: খাটি
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: "তিন অক্ষরে নাম যার, যাতে তৈরি তাতেই ভেসে, শেষের অক্ষর বাদ দিলে সোজা বিয়ের পিঁড়িতে বসে" বল কি সেই মাল??
+Candidate Answer: তেল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরে নাম তার পানিতে বাস করে, প্রথম অক্ষর বাদ দিলে স্বাদে মিষ্টি করে। বল কি তার নাম?
+Candidate Answer: মাছ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: বল কি সেই জালের নাম, যার না আছে কোনো সুতা, ফিতা, তার ; কিন্তু নিমিষেই তোমায় দেবে শেরা সম্পদের সন্ধান।
+Candidate Answer: ইন্টারনেট
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এমন একটি জিনিস যেটা সব লোকই খায় ছোট ছেলেরা খেলেপরে মায়ের কাছে যায় বৃদ্ধ লোকে খেলেপরে মাথায় দেয় হাত যুবক যুবতীরা খেলে এদিক ওদিক তাকায়
+Candidate Answer: ঘুম
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরে জিনিসটা কি নাম তার বলনা মাথা কাটলে চলে আর মাথা না কাটলে চলে না।
+Candidate Answer: লোহা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: মেঘের ডাকে জল ছেড়ে ডাঙায় উঠে পড়ে মানুষ তার মাঠে পেলে নিয়ে যায় ঘরে।
+Candidate Answer: মাছ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: হাত আছে পা নেয় মাথা তার কাটা আস্ত মানুষ গিলে খায় বুক তার ফাটা।
+Candidate Answer: কাঁকড়া
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরে নাম তার সব লোকে খায় প্রথম অক্ষর বদ দিলে ঘর ছাওয়া যায়।
+Candidate Answer: চাল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: একই প্রশ্ন কিন্তু সবাই আলাদা আলাদা উত্তর দেয় অথচ সবার উত্তরই ঠিক প্রশ্নটি কি ?
+Candidate Answer: তুমি আমার নাম কি?
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: আমি অন্ধকার কিন্তু আলো ছাড়া আমার অস্তিত্ব নেই আমি কে ?
+Candidate Answer: ছায়া
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কোথায় নদী আছে কিন্তুু জল নেই পাহাড় আছে কিন্তু পাথর নেই দেশ আছে কিন্তু লোক নেই ?
+Candidate Answer: মানচিত্র
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: সমুদ্রে জন্য আমার থাকি সবার ঘরে একটু জলের স্পশ্র পেলে যায় আমি মরে
+Candidate Answer: লবণ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কত,র মধ্যে কত বাদ দিলে কত থাকবে ?
+Candidate Answer: এক
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: বন থেকে বেরোলো টিয়ে, সোনার টোপর মাথায় দিয়া
+Candidate Answer: দিরিকাজ।
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এই ঘরে যাই, ওই ঘরে যাই, দুমদুমি এ আছাড় খাই
+Candidate Answer: কোদাল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: লাল টুকটুক ছোটমামা, গায়ে পড়ে অনেক জামা
+Candidate Answer: পেঁয়াজ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরে নাম চোরের বুক কাঁপে, শেষ দুটি ছেড়ে দিলে কাটে এক কোপে। কিন্তু যদি প্রথম ছাড়ো দেখে লাগে দুঃখ, মাংস কম, শীর্ণকায়, চেহারাটি সূক্ষ্ম
+Candidate Answer: হাতুড়ি (Haturi)
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: হেতা দিলাম থান হয়ে গেল লতা, ফুল নাই ফল নাই সবই তার পাতা
+Candidate Answer: পান
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: গা করে তার খসর-মসর, পাত করে তার ফেনী; ফুল করে তার লাল-তামাসা, ফল করে কুস্তনি
+Candidate Answer: কাঁঠাল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: সাগরে জন্ম তার আকাশে উড়ে, পর্বতের কাছে মার খেয়ে কেঁদে কেঁদে মড়ে
+Candidate Answer: মেঘ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তলে মাটি উপরে মাটি, তার মধ্যে সুন্দর বেটি
+Candidate Answer: আলু
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: জল নয়, বৃষ্টিও নয় কিন্তু ভিজে সারা, বাড়িঘর ডুবল, ডুবল পাহাড়েরও চূড়া
+Candidate Answer: মেঘ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: হাত আছে পা নেই বুক তার ফাটা, জ্যান্ত মানুষ গিলে খায় নেই তার মাথা
+Candidate Answer: কবর
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: জলের মাঝে জন্ম হলো দুই অক্ষরের প্রাণী, শেষের অক্ষর বাদ দিলে হয় মহারাণী
+Candidate Answer: মাছ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরের নাম তার সবার ঘরে রয়, প্রথম অক্ষর বাদ দিলে খাদ্যবস্তু হয়। মাঝের অক্ষর বাদ দিলে হয় গানের শোভা, শেষের অক্ষর বাদ দিলে ভয় তুমি পাবা
+Candidate Answer: ইদুর
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: জনম গেল দুখে, বুকে আমার আগুন দিয়ে থাকো অনেক সুখে
+Candidate Answer: সজনেদার মুখ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কাল আমাকে মেরে ছিলে সয়ে ছিলাম আমি, আজ আমায় মারো দেখি কেমন বেটা তুমি
+Candidate Answer: কাঁঠাল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কুল কুল কুলেরি, ভাদ্র মাসে ধুলোরি, কাঁচায়-পাকায় সবাই খায়, নেংটো হয়ে হাটে যায়
+Candidate Answer: কলা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: রাজার বেটা রাম দাস, খায় খোলা তার ফেলায় শাঁস
+Candidate Answer: আম
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ইকরের তলে তলে ভিকমতির ছানি, কোন দেশে দেখিয়াছ গাছের আগায় পানি?
+Candidate Answer: আকাশ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এক থালা সুপারী গুণতে পারে কোন ব্যাপারী?
+Candidate Answer: মহাজন
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: সফেদ শয্যা পড়ে আছে কেউ তাতে না শোয়, ভিতর থেকে খোলাম কুচি আঙিনাতে থোয়
+Candidate Answer: আম
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: সকালে চার পায়ে হাঁটে, দুপুরে দুই পায়ে। সন্ধায় তিন পায়ে হাঁটে বলো তো কে যায়?
+Candidate Answer: মানুষ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ইটে গুরুগুরু বৈঠা নাগর, বিনা বৈঠায় বায় সে সাগর
+Candidate Answer: বাতাস
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: জ্বলছে তবু পুড়ছে না, কোন সে প্রাণী বলো তা
+Candidate Answer: মাছ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: একটুখানি পুষ্পরিণী টলমল করে, একটুখানি কুটা পাড়লে সর্বনাশ করে
+Candidate Answer: চোখ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: আাঁধার পুকুর, গড়ান মাঠ, বত্রিশ কলাগাছ, একখানি পাট
+Candidate Answer: দাঁত
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ছোট ছোট গাছখানি তার কত ফল ধরে, একটা যদি খায় তবে আহা-উহু করে
+Candidate Answer: মরিচ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ছোট কালে লেজ হয়, বড় কালে খসে, বাঘের মত লাফ দেয়, কুকেুরের মত বসে
+Candidate Answer: বাঁদর
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: একটুখানি জলে মাছ কিলবিল করে, কারো বাবার সাধ্য নাই হাত দিয়ে তা ধরে
+Candidate Answer: মাছ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: মেটো গোয়াল, কাঠের গাই বাঁছুর ছাড়াই দুধ পাই
+Candidate Answer: কলস
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কাঁচাতে যেই ফল সর্বজনে খায়, পাঁকলে সেই ফল গড়াগড়ি যায়
+Candidate Answer: কাঁঠাল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: জল ছাড়া নদী, পাথর ছাড়া পাহাড় এবং মানুষ ছাড়া শহর কোথায় পাওয়া যায়?
+Candidate Answer: মানচিত্র
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: যদি থাকে বুদ্ধি বলো দেখি কোন সুখে সুখ নেই?
+Candidate Answer: দুঃখ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কালিদাস পন্ডিতের ফাঁকি, আড়াইশো থেকে পাঁচ পঞ্চাশ গেলে আর কত থাকে বাকী?
+Candidate Answer: তেত্রিশ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: বাঘের মত লাফ দেয়, কুকুর হয়ে বসে, পানির মধ্যে ছেড়ে দিলে, ছোলা হয়ে ভাসে।
+Candidate Answer: বাঁদর
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: শহর থেকে এল সাহেব কোর্ট প্যান্ট পরে, কোর্ট প্যান্ট খোলার পরে চোখ জ্বালা করে।
+Candidate Answer: পেঁয়াজ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ৩ অক্ষরের নাম তার পেট ভরে পানি খায় মাঝের অক্ষর বাদ দিলে আলোয় ভরে যায়,
+Candidate Answer: চশমা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কান নাই মাথা নাই, পেট ভরে খায়, কাম নাই কাজ নাই, মাথা নিয়ে ঘুমায়।
+Candidate Answer: আগুন
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: আমি কাদাঁই, আমি হাসাই, নই আমি প্রাণি, আমায় দেখে সবাই ক্ষনিক ভোলে ব্যাথার বানী।
+Candidate Answer: চিত্র
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: আন্ধার ঘরে থাকি আমি নড়াচড়া করি, একটুখানি খাবার পেলে খাবলে তাকে ধরি।
+Candidate Answer: চোখ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: হাঁড়ির ভিতর, বালির ভিতর হাজার ছেলে নাচে, একটু পরই হয় সে খাবার তপ্ত চুলার আঁচে।
+Candidate Answer: পপকর্ন
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এতো বড় আঙিনা ঝাড় দিয়েও কুলোয় না। কতো ফুল ফুটে আছে নাই তার তুলনা!
+Candidate Answer: আকাশ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: চার পায়ে বসি মোরা, আট পায়ে চলি। বাঘও নই ভাল্লুকও নই আস্ত কাঁধে ঝুলি।
+Candidate Answer: পালকি
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরে নাম তার সর্ব অঙ্গে কালো, মাঝের অক্ষর বাদ দিলে খেতে লাগে ভাল
+Candidate Answer: কালো
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: আশ্চর্য এক কথা শুনলে হাসি পায় নিজে দেখতে পায় না কিন্তু অপরকে দেখায়।
+Candidate Answer: চশমা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরের নাম তার সবাই খায়, প্রথম অক্ষর ছেড়ে দিলে মেয়েদের হাতে যায়।
+Candidate Answer: চিনি
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: চোখ আছে, কান নাই, হাত আছে, প্রাণ নাই।
+Candidate Answer: পুতুল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এক বাড়িতে চার ভাই, তাদের গায়ে একই সাজ, কারো মুখে কেশ নাই, দিন শেষে বাড়ায় রাজ।
+Candidate Answer: কলম
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এক পায়ে দাঁড়িয়ে আছে, হাত দিয়ে ঠেলে দিলে, দৌড়ে পালিয়ে যায়।
+Candidate Answer: পাম্প
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: সাদা দুটি পুকুরে কালো হিরে চকচক করে।
+Candidate Answer: চোখ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: দিনের বেলায় ঘুমিয়ে থাকে রাতের বেলায় জাগে ঘর-বাড়ি নেই আকাশেতে থাকে
+Candidate Answer: তারা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: চাঁদ নয় সূর্য নয় আলো দেয় রাতে গাছে গাছে উড়ে বেড়ায় টিমটিম আলোতে।
+Candidate Answer: জোনাকি
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: গলা আছে মাথা নেই হাত আছে পা নেই এটি কি বলবে আমায়?
+Candidate Answer: কলম
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: বাঘ নয় তবে মানুষ খায় পাখি নয় তবে উড়ে যায় বোলতা নয় তবে শুং আছে জন্তু নয় তবে পা আছে।
+Candidate Answer: জাহাজ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: মাথার উপর রাখে আমায় রোদ-বর্ষার দিনে বাকি সময় পড়ে থাকি শুধু ঘরের কোনে৷
+Candidate Answer: ছাতা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: দাদু বুড়ো, ঠাকুমা বুড়ি আমাতে বুড়ো কী? পাঁচ আঙুলে রয়েছে সেটি বলবে সেটি কী?
+Candidate Answer: হাত
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: উপরে থেকে পড়ল হাঁড়ি হাঁড়ির ভেতরে একশো কড়ি।
+Candidate Answer: বৃষ্টি
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ঘরের ভেতরে ঘর সেখানে গিয়ে শুয়ে পড়।
+Candidate Answer: চোখ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এক থালা সুপারি গুণতে না পারি।
+Candidate Answer: চাঁদ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: জটা ভরা মাথায় হাজার চোখে তাকায়।
+Candidate Answer: নারিকেল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: থাকি গভীর জলে মাঝের বর্ণ ছেড়ে দিলে আকাশে যাই উড়ে।
+Candidate Answer: মাছ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: প্রজাপতি, প্রজাপতি বলছি শোন কী তিনটি মাথা, দশটি ঠ্যাং দেখেছ তুমি কি?
+Candidate Answer: গরু
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: লেবু টক, জলপাই টক আর টক কী পাতার আড়ালে ঝুলে থাকি আমায় চেন কি?
+Candidate Answer: জিহ্বা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: লম্বা কেশর ফুলিয়ে তোলা গম্ভীর মেজাজ; রাজার মতো চেহারা তাই নামটি পশুরাজ
+Candidate Answer: সিংহ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: আয় আয় তু তু খেতে দেব দু দু! ল্যজটি তুলে নাচবি সুখে, হাসবে সোনার খুকু!
+Candidate Answer: পাখি
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: গাছে হয় ঘরে আনি রান্না হয় খাওয়ার সময় ফেলা হয় ।
+Candidate Answer: পাতা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: পাখা আছে মোর না পারি উড়তে, আঁখি আছে মোর না পারি মুদতে। পা নাই মোর তবুও ঘুরি। জীবন কাটাই জলে চরি। যদি তুমি আমায় চিনতে পারো তবে মোর নামটি মনে করো।
+Candidate Answer: মাছ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন বর্ণের নামটি আমার আরাম করে শুই প্রথম বর্ণ কেটে দিলে দুধের থেকে হই মাঝের বর্ণ কেটে দিলে ছাড়া পেয়ে যাই শেষের বর্ণ কেটে দিলে ভীষণ ভয় পাই।
+Candidate Answer: আরাম
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: দুই বর্ণের শব্দ আমি জলের মাঝে রই দ্বিতীয় বর্ণ কাটলে পরে আপন আমি হই।
+Candidate Answer: নদী
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ফরসা সাহেবেরা কালো টুপি পরে, একবার ঘসে দিলে উঠে যে জ্বলে
+Candidate Answer: ম্যাচ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: বড়ো একটি পুকুরের ছোটো দুটি ঘাট, বত্রিশটি কলাগাছ, একটি পাতা তাতে ৷
+Candidate Answer: দাঁত
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ওপার থেকে এলো বুড়ি সাদা কাপড় পরে মহানন্দে বসল খেতে ঘাড় নেড়ে নেড়ে
+Candidate Answer: শকুন
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কোন দেশ বাজে কোন দেশ বলো দেখি তেল ঘিতে ভাজে
+Candidate Answer: বাজে দেশ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: জলের জন্তু নয় তবুও জলেই  বাস করে হাত নেই পা নেই তবু সাঁতার কাটে
+Candidate Answer: কাঠাল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরে নাম যার সবার ঘরে রয় প্রথম অক্ষর বাদ দিলে সর্ব লোকে খায়। পেট তার কেটে দিলে মধুর গান গায় শেষ অক্ষর বাদ দিলে খুব কামরায়
+Candidate Answer: বই
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: দু’অক্ষরে নাম তার বহু লোকে খায় শেষের অক্ষর বাদ দিলে হেঁটে চলে যায়
+Candidate Answer: পান
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: দু’অক্ষরে নাম লজ্জা নিবারণী প্রথম অক্ষর বাদ দিলে হয় আমার জননী শেষের অক্ষর বাদ দিলে ভাশুর ঘরণী
+Candidate Answer: বিভুক্তি
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: প্রাণ নেই বন্ধু নয়, চলে সাথে সাথে আলো পেলে তবে চলে দিনে কিংবা রাতে
+Candidate Answer: ছায়া
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরে নাম তার প্রতি ঘরে পাবে অধ্যক্ষর বাদ দিলে বৎসর বুঝাবে মধ্য অক্ষর গেলে সবার ক্ষতি করে শেষের অক্ষর গেলে সবাই অবস্থান করে
+Candidate Answer: বৎসর
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: দুই অক্ষরের নাম যার সব যায়গায় রায় প্রথম অক্ষর বাদ দিলে খাবার জিনিস হয়, শেষের অক্ষর বাদ দিলে আপনজন হয়
+Candidate Answer: রাম
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: একলা তারে যায় না দেখা, সঙ্গী গেলে বাঁচে। আধার দেখে ভয়ে পালায়, আলোয় ফিরে আসে।
+Candidate Answer: ছায়া
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: একটুখানি পুস্কনি, পানি টলমল করে। রাজার ছেলের সাধ্য নেই, জাল ফেলতে পারে।
+Candidate Answer: মাছ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: একটি গাছের বাঁট নাই, তবু দুগ্ধ হয় প্রচুর। দোহনকালে থাকে নাকো, তার নিকটে বাছুর।
+Candidate Answer: লাউ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: একটি হলে কাজ হবে না, দুটি কিন্তু চাই। দুটি পেলে, হবে চাষী ভাই।
+Candidate Answer: লাঙ্গল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এপার ঝাটি, ওপার ঝাটি। ঝাটিতে করে, পিটা পিটি।
+Candidate Answer: কাঠাল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: "তিন অক্ষরে নাম যার, যাতে তৈরি তাতেই ভেসে, শেষের অক্ষর বাদ দিলে সোজা বিয়ের পিঁড়িতে বসে" বল কি সেই মাল??
+Candidate Answer: তেল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরে নাম তার পানিতে বাস করে, প্রথম অক্ষর বাদ দিলে স্বাদে মিষ্টি করে। বল কি তার নাম?
+Candidate Answer: চিংড়ি
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: বল কি সেই জালের নাম, যার না আছে কোনো সুতা, ফিতা, তার ; কিন্তু নিমিষেই তোমায় দেবে শেরা সম্পদের সন্ধান।
+Candidate Answer: ইন্টারনেট
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এমন একটি জিনিস যেটা সব লোকই খায় ছোট ছেলেরা খেলেপরে মায়ের কাছে যায় বৃদ্ধ লোকে খেলেপরে মাথায় দেয় হাত যুবক যুবতীরা খেলে এদিক ওদিক তাকায়
+Candidate Answer: খাবার
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরে জিনিসটা কি নাম তার বলনা মাথা কাটলে চলে আর মাথা না কাটলে চলে না।
+Candidate Answer: পেন
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: মেঘের ডাকে জল ছেড়ে ডাঙায় উঠে পড়ে মানুষ তার মাঠে পেলে নিয়ে যায় ঘরে।
+Candidate Answer: মাছ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: হাত আছে পা নেয় মাথা তার কাটা আস্ত মানুষ গিলে খায় বুক তার ফাটা।
+Candidate Answer: কুলা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরে নাম তার সব লোকে খায় প্রথম অক্ষর বদ দিলে ঘর ছাওয়া যায়।
+Candidate Answer: চাল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: একই প্রশ্ন কিন্তু সবাই আলাদা আলাদা উত্তর দেয় অথচ সবার উত্তরই ঠিক প্রশ্নটি কি ?
+Candidate Answer: তোমার নাম কি?
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: আমি অন্ধকার কিন্তু আলো ছাড়া আমার অস্তিত্ব নেই আমি কে ?
+Candidate Answer: ছায়া
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কোথায় নদী আছে কিন্তুু জল নেই পাহাড় আছে কিন্তু পাথর নেই দেশ আছে কিন্তু লোক নেই ?
+Candidate Answer: মানচিত্র
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: সমুদ্রে জন্য আমার থাকি সবার ঘরে একটু জলের স্পশ্র পেলে যায় আমি মরে
+Candidate Answer: লবণ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কত,র মধ্যে কত বাদ দিলে কত থাকবে ?
+Candidate Answer: করম
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: বন থেকে বেরোলো টিয়ে, সোনার টোপর মাথায় দিয়া
+Candidate Answer: সূর্য
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এই ঘরে যাই, ওই ঘরে যাই, দুমদুমি এ আছাড় খাই
+Candidate Answer: মুড়ি
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: লাল টুকটুক ছোটমামা, গায়ে পড়ে অনেক জামা
+Candidate Answer: লঙ্কা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরে নাম চোরের বুক কাঁপে, শেষ দুটি ছেড়ে দিলে কাটে এক কোপে। কিন্তু যদি প্রথম ছাড়ো দেখে লাগে দুঃখ, মাংস কম, শীর্ণকায়, চেহারাটি সূক্ষ্ম
+Candidate Answer: পুলিশ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: হেতা দিলাম থান হয়ে গেল লতা, ফুল নাই ফল নাই সবই তার পাতা
+Candidate Answer: বাঁশ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: গা করে তার খসর-মসর, পাত করে তার ফেনী; ফুল করে তার লাল-তামাসা, ফল করে কুস্তনি
+Candidate Answer: আম
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: সাগরে জন্ম তার আকাশে উড়ে, পর্বতের কাছে মার খেয়ে কেঁদে কেঁদে মড়ে
+Candidate Answer: মেঘ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তলে মাটি উপরে মাটি, তার মধ্যে সুন্দর বেটি
+Candidate Answer: মাটির পুতুল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: জল নয়, বৃষ্টিও নয় কিন্তু ভিজে সারা, বাড়িঘর ডুবল, ডুবল পাহাড়েরও চূড়া
+Candidate Answer: মেঘ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: হাত আছে পা নেই বুক তার ফাটা, জ্যান্ত মানুষ গিলে খায় নেই তার মাথা
+Candidate Answer: বই
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: জলের মাঝে জন্ম হলো দুই অক্ষরের প্রাণী, শেষের অক্ষর বাদ দিলে হয় মহারাণী
+Candidate Answer: মাছ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: তিন অক্ষরের নাম তার সবার ঘরে রয়, প্রথম অক্ষর বাদ দিলে খাদ্যবস্তু হয়। মাঝের অক্ষর বাদ দিলে হয় গানের শোভা, শেষের অক্ষর বাদ দিলে ভয় তুমি পাবা
+Candidate Answer: বই
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: জনম গেল দুখে, বুকে আমার আগুন দিয়ে থাকো অনেক সুখে
+Candidate Answer: ধূমপান
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কাল আমাকে মেরে ছিলে সয়ে ছিলাম আমি, আজ আমায় মারো দেখি কেমন বেটা তুমি
+Candidate Answer: পানি
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: কুল কুল কুলেরি, ভাদ্র মাসে ধুলোরি, কাঁচায়-পাকায় সবাই খায়, নেংটো হয়ে হাটে যায়
+Candidate Answer: কলা
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: রাজার বেটা রাম দাস, খায় খোলা তার ফেলায় শাঁস
+Candidate Answer: কাঁঠাল
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ইকরের তলে তলে ভিকমতির ছানি, কোন দেশে দেখিয়াছ গাছের আগায় পানি?
+Candidate Answer: আকাশ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: এক থালা সুপারী গুণতে পারে কোন ব্যাপারী?
+Candidate Answer: চাষী
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: সফেদ শয্যা পড়ে আছে কেউ তাতে না শোয়, ভিতর থেকে খোলাম কুচি আঙিনাতে থোয়
+Candidate Answer: পান
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: সকালে চার পায়ে হাঁটে, দুপুরে দুই পায়ে। সন্ধায় তিন পায়ে হাঁটে বলো তো কে যায়?
+Candidate Answer: মানুষ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ইটে গুরুগুরু বৈঠা নাগর, বিনা বৈঠায় বায় সে সাগর
+Candidate Answer: নদী
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: জ্বলছে তবু পুড়ছে না, কোন সে প্রাণী বলো তা
+Candidate Answer: মোমবাতি
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: একটুখানি পুষ্পরিণী টলমল করে, একটুখানি কুটা পাড়লে সর্বনাশ করে
+Candidate Answer: চোখ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: আাঁধার পুকুর, গড়ান মাঠ, বত্রিশ কলাগাছ, একখানি পাট
+Candidate Answer: দাঁত
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ছোট ছোট গাছখানি তার কত ফল ধরে, একটা যদি খায় তবে আহা-উহু করে
+Candidate Answer: মরিচ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: ছোট কালে লেজ হয়, বড় কালে খসে, বাঘের মত লাফ দেয়, কুকেুরের মত বসে
+Candidate Answer: খরগোশ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: একটুখানি জলে মাছ কিলবিল করে, কারো বাবার সাধ্য নাই হাত দিয়ে তা ধরে
+Candidate Answer: মাছ
+---
+Your single-word (Yes or No):
+
+---
+
+You are an expert Bengali riddle analyst.
+Your task is to evaluate if the provided "Candidate Answer" is a good and correct solution for the given "Bengali Riddle".
+Critically analyze the riddle and the provided answer to determine if the answer is a correct and fitting solution.
+Your response MUST be a single word: either "Yes" or "No".
+
+Do NOT provide any explanations, reasoning, introductory text, punctuation, or any other words. Your entire output must be only "Yes" or only "No".
+
+- Respond "Yes" if the candidate answer is a correct or a very plausible solution.
+- Respond "No" if the candidate answer is incorrect, nonsensical, or a poor fit for the riddle.
+
+---
+Riddle: মেটো গোয়াল, কাঠের গাই বাঁছুর ছাড়াই দুধ পাই
+Candidate Answer: বটার।
+---
+Your single-word (Yes or No):
